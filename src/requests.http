@@ -1,0 +1,44 @@
+### adição
+POST http://localhost:3000/soma
+Content-Type: application/json
+
+{
+    "v1": 35,
+    "v2": 10
+}
+
+### subtração
+POST http://localhost:3000/sub
+Content-Type: application/json
+
+{
+    "v1": 35,
+    "v2": 10
+}
+
+### multiplicação
+POST http://localhost:3000/mult
+Content-Type: application/json
+
+{
+    "v1": 35,
+    "v2": 10
+}
+
+### divisão
+POST http://localhost:3000/divisao
+Content-Type: application/json
+
+{
+    "v1": 35,
+    "v2": 10
+}
+
+### resto
+POST http://localhost:3000/resto
+Content-Type: application/json
+
+{
+    "v1": 35,
+    "v2": 10
+}
